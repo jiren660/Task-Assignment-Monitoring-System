@@ -4,7 +4,7 @@
 
 @push('styles')
 <style>
-    /* ── Top bar ──────────────────────────────────── */
+    /* ── SAMPLE TESTING ─────────────────────────────────── */
     .topbar {
         background: #111111;
         color: #ffffff;
